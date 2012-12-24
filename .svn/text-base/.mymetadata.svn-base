@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Footprint"
+  id="myeclipse.1353296054927"
+  context-root="/Footprint"
+  j2ee-spec="5.0"
+  archive="Footprint.war">
+  <attributes>
+    <attribute name="webrootdir" value="&lt;prjroot&gt;" />
+  </attributes>
+</project-module>
+

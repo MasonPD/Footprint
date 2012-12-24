@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/Footprint/WEB-INF/lib/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/Footprint/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/Footprint/WEB-INF/lib/beanfactory-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/Footprint/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/Footprint/WEB-INF/lib/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/Footprint/WEB-INF/lib/standard-1.1.2.jar"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_CORE"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/beanfactory-2.3.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/slf4j-simple-1.5.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/Footprint/WEB-INF/lib/commons-fileupload-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/Footprint/WEB-INF/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-fileupload-1.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
